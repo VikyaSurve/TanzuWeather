@@ -77,7 +77,6 @@
 /Users/admin/Documents/GitHub/TanzuWeather/bin/System.Web.Http.xml
 /Users/admin/Documents/GitHub/TanzuWeather/bin/System.Web.Http.WebHost.xml
 /Users/admin/Documents/GitHub/TanzuWeather/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-/Users/admin/Documents/GitHub/TanzuWeather/obj/Debug/Weather.csproj.AssemblyReference.cache
 /Users/admin/Documents/GitHub/TanzuWeather/obj/Debug/Weather.csproj.CoreCompileInputs.cache
 /Users/admin/Documents/GitHub/TanzuWeather/obj/Debug/Weather.csproj.CopyComplete
 /Users/admin/Documents/GitHub/TanzuWeather/obj/Debug/Weather.dll
